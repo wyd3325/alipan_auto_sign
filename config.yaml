@@ -1,5 +1,5 @@
 pushplus_token: 123456abc ## pushplus推送token
 refresh_token: 123456abc ## 阿里云网盘刷新token
 bilibili_cookie: 123456abc ## B站cookie
-kk_cookie: 123456abc ##夸克网盘cookie
+kk_cookie: _UP_A4A_11_=wb9641b36cd944cba9b7a949469d22a6; _UP_D_=pc; __pus=115229b42ae9b31c3dd1e86f305c4645AAR15xPtCIMSPLA9dOfXO39oKktez39mf4RqgRo6TziGjTmmJwsuPkdKfbKQZ1b5hAEMe+JDLsPfxyW5rYchMEX/; __kp=a1de93f0-fde9-11ee-bf97-27350aa7faf8; __kps=AATN6RScRMf20CHlfErP8hzA; __ktd=djOAh1BczwIggStloc9jAA==; __uid=AATN6RScRMf20CHlfErP8hzA; __puus=02033c71186a14fe53a05c0d6f0b6ba3AATRWM0lN2Cy69HjCoeB/oBQ26N7cb5cJbotu0cUTYZN4C3L05F0a/Pat4NX3C6aDV3wtkEkU8Kq9q4+7rJVxEThzVf7sV0X4RW+PyYQgwj9YRDfmRWRfrFWv1Us1fpUuppOEMXNUfhlZLTRcs2J9QxQgFxsz8cm8El4zaJnnc3mzNIW6VxNziLxlLx2p5GYuAfv03gofEaxGRvnHFB3M8TH
 jd_cookie: 123456abc ##京东cookie
